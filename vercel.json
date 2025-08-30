@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/proxy/(.*)",
+      "destination": "https://maps.googleapis.com/$1"
+    }
+  ]
+}
