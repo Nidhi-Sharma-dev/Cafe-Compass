@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyAG1QLg1UgQmRuubcmgGoCLrb5HmZ_VIXo";
+const apiKey = "****";
 
 async function useLocation(lat, lng) {
 
